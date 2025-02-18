@@ -33,5 +33,5 @@ This project provides an Excel-based stock portfolio dashboard that dynamically 
 - **Pie Chart vs. Bar Chart**: A pie chart is used for industry allocation, but a bar chart is recommended for larger datasets.																																																																			
 
 ## Screenshot
-Personal Stock Dashboard: A comprehensive view of portfolio performance, trends, and key financial insights—all in one place!
-![Stock_dashboard_excel](https://github.com/user-attachments/assets/cfa53234-3e6f-4a8c-87ae-f976a224da3e)
+### Personal Stock Dashboard: A comprehensive view of portfolio performance, trends, and key financial insights—all in one place!
+![Stock_dashboard_excel](https://github.com/user-attachments/assets/fd1e53c0-cc4e-462b-8a89-8a7adc0fd008)
